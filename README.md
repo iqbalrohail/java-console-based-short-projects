@@ -1,4 +1,5 @@
 # Console-based-short-projects
+# Codes are provided in src\com\company folder
 
 #......................... Following is the list of questions for the given codes ...................................
 
