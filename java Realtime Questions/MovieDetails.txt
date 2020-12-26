@@ -1,0 +1,4 @@
+The name of your favourite movie is Bang Bang
+The name of Movie's Director is Rakesh Roshan
+The name of Movie's Producer is Hritik Roshan
+The released date of movie in Format(M/day/date) 12/24/2016

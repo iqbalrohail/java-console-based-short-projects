@@ -1,0 +1,8 @@
+Customer's Account Balance 2500000.0
+Customer's Address is house24 tbz
+Customer's City is sahiwal
+Customer's Last payment date was 
+Customer's Name is Rohail
+Customer's State is pakistan
+Customer's Telephone  number is 1.345153252341E12
+Customer's City's ZIP code is 5700
